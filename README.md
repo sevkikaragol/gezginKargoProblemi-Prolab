@@ -1,2 +1,5 @@
-# gezginKargoProblemi-Prolab
-Merkezi belli olan kargo firmasının siparişlerini en kısa yoldan ulaştırmasını ve tekrar merkeze dönmesini sağlayan rotaların bulunmasını ve bu rotaların harita üzerinde gösterilmesini sağlayan program.
+## Gezgin Kargo Problemi
+
+Prolab 4.proje 
+
+Proje detayları için : [Proje Raporu](https://github.com/sevkikaragol/gezginKargoProblemi-Prolab/blob/main/rapor.pdf)
